@@ -13,10 +13,10 @@
 ## Stats
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=derecknowayback&count_private=true&show_icons=true&theme=radical" width='1500"' />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=derecknowayback&count_private=true&show_icons=true&theme=radical" width='500"' />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derecknowayback&layout=compact" width='300"' />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derecknowayback&layout=compact" width='500"' />
 
 
 <!---
