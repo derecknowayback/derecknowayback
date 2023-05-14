@@ -3,7 +3,8 @@
 ## About me
 
 - 👋 Hi, I’m Dereck Chen
-- :school: Major in Computer Science of BUPT
+- 🏫 Major in Computer Science of BUPT
+- ⌨️ Intern of ApeCloud 
 - 👀 I’m interested in Backend Develop / Java / Go
 - 🌱 I’m currently learning Network / Databases / OS
 - 📫 How to reach me : dereck_yak@foxmail.com
