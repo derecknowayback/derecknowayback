@@ -4,9 +4,9 @@
 
 - 👋 Hi, I’m Dereck Chen
 - 🏫 Major in Computer Science of BUPT
-- ⌨️ Intern of ApeCloud 
+- ⌨️ Intern of ApeCloud / Bytedance
 - 👀 I’m interested in Backend Develop / CloudNative / Infra
-- 🌱 I’m currently learning K8s
+- 🌱 I’m currently learning backend develop / k8s / distributed system
 - 📫 How to reach me : dereck_yak@foxmail.com
 
 
