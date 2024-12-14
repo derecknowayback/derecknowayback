@@ -3,10 +3,10 @@
 ## About me
 
 - 👋 Hi, I’m Dereck Chen
+- ⌨️ Currently work for Tiktok-Ads. Former intern of ApeCloud / Bytedance
 - 🏫 Major in Computer Science of BUPT
-- ⌨️ Intern of ApeCloud / Bytedance
-- 👀 I’m interested in Backend Develop / CloudNative / Infra
-- 🌱 I’m currently learning backend develop / k8s / distributed system
+- 👀 Interested in Backend Develop / CloudNative / Infra
+- 🌱 Learning backend develop
 - 📫 How to reach me : dereck_yak@foxmail.com
 
 
